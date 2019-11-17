@@ -18,7 +18,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Calculator N+](https://github.com/tranleduy2000/ncalc) | Power calculator for Android. Solve some problem algebra and calculus. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.duy.calculator.free)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
