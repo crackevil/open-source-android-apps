@@ -118,6 +118,8 @@ App Name                   | Describe                  | Major Language         
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
 [todotxt](https://github.com/ginatrapani/todo.txt-android) | Official Todo.txt Android app for managing your todo.txt file stored in Dropbox. http://todotxt.com | Java | 
 
+[TEdit](https://github.com/ATryder/TEdit) | A simple text editor for Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.atr.tedit)
+
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
