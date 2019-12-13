@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |   
+[Bitwarden](https://github.com/bitwarden/mobile) | The mobile app vault (iOS and Android). | C# | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden) 
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
